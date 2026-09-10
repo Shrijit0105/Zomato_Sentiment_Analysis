@@ -32,7 +32,8 @@ This project focuses on the company and customers,we have analysed the reviews a
  </tfoot>
 </table>
 
-<table border="1" style="border-collapse: collapse;>
+<table border="1" style="border-collapse: collapse;">
+ <caption>Reviewers Data</caption>
  <thead>
    <tr>
      <th>Reviewer</th>
