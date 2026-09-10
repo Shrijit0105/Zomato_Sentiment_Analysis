@@ -32,6 +32,33 @@ This project focuses on the company and customers,we have analysed the reviews a
  </tfoot>
 </table>
 
+<table border="1" style="border-collapse: collapse;>
+ <thead>
+   <tr>
+     <th>Reviewer</th>
+     <th>Review</th>
+     <th>Rating</th>
+     <th>Meta Data</th>
+     <th>Time</th>
+    <th>Pictures</th>
+   </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <td>Name of the Reviewers</td>
+     <td>Review Text</td>
+     <td>Given Rating</td>
+     <td>Number of reviews and followers</td>
+     <td>Date and Time of review</td>
+    <td>Pictures uploaded by the reviewers with reviews</td>
+   </tr>
+ </tbody>
+ <tfoot>
+ </tfoot>
+</table>
+
+
+
 
 
 
