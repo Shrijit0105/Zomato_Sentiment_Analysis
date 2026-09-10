@@ -1,8 +1,8 @@
-### AI-ML_project -
+<h1><bold>AI-ML_project</bold></h1>
 
 <h2>TOPIC-Zomato sentiment analysis</h2>
 
-<h4>ntroduction</h4>
+<h4>Introduction</h4>
 This is an AI/ML-data science project which I have performed under the 2-month internship program by "Labmentix"
 
 <h2>Aim:</h2>
