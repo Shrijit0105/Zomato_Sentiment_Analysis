@@ -6,7 +6,7 @@
 This is an AI/ML-data science project which I have performed under the 2-month internship program by "Labmentix"
 
 <h2>Aim:</h2>
-<p></p>Here the basic aim is to inspect data and get insights about the food industry in India.
+<p font-style="Cascadia">Here the basic aim is to inspect data and get insights about the food industry in India.
 This project focuses on the company and customers,we have analysed the reviews and ratings by the customers who have given their individual verdict on the experience they had into useful data and also performed visual data representation.</p>
 <table border="1" style="border-collapse: collapse;">
  <caption>Restaurant Data</caption>
