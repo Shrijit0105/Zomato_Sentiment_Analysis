@@ -59,10 +59,11 @@ This project focuses on the company and customers,we have analysed the reviews a
 </table>
 <div class="workflo">
 <h2>Flowchart of the project</h2>
-<description> This is the basic workflow of our project which explains the project using a flowchart </description>
-<img src="Screenshot 2026-09-10 233530.png" width="80"  length= "50">
+<description> This is the basic workflow of our project which explains the project using a flowchart </description></n>
+ 
+<img src="Screenshot 2026-09-10 233530.png" width="180"  length= "150">
 
-
+</div>
 
 
 
