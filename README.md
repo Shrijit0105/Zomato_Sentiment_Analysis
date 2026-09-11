@@ -78,9 +78,3 @@ This project focuses on the company and customers,we have analysed the reviews a
 
 </table>
 
-<style>
- .TechS{
-  
- }
- 
-</style>
