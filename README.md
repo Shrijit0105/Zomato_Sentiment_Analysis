@@ -69,7 +69,7 @@ This project focuses on the company and customers,we have analysed the reviews a
 <h2>Flowchart of the project</h2>
 <description> This is the basic workflow of our project which explains the project using a flowchart </description>
  <br>
-<img src="Screenshot 2026-09-10 233530.png", width="180" , length= "150">
+<img src="Screenshot 2026-09-10 233530.png", width="180", length= "150">
 
 </div>
 
@@ -77,3 +77,10 @@ This project focuses on the company and customers,we have analysed the reviews a
 
 
 </table>
+
+<style>
+ .TechS{
+  
+ }
+ 
+</style>
