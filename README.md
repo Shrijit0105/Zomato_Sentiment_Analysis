@@ -33,7 +33,7 @@ This project focuses on the company and customers,we have analysed the reviews a
 </table>
 
 <table border="1" style="border-collapse: collapse;">
- <caption>Reviewers Data</caption>
+ <caption><h2>Reviewers Data</h2></caption>
  <thead>
    <tr>
      <th>Reviewer</th>
@@ -58,7 +58,7 @@ This project focuses on the company and customers,we have analysed the reviews a
  </tfoot>
 </table>
 <div class="TechS">
-<caption>Technologies used</caption>
+<caption><h2>Technologies used</h2></caption>
 <italic><li>Python</li>
  <li>Pandas</li>
  <li>Matplotlib</li>
