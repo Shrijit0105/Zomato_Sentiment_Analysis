@@ -73,6 +73,9 @@ This project focuses on the company and customers,we have analysed the reviews a
 
 </div>
 
+<div class="Info">
+<caption><h2>Impact of this project</h2></caption>
+
 
 
 
