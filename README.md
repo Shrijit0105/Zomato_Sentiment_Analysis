@@ -76,7 +76,7 @@ This project focuses on the company and customers,we have analysed the reviews a
 <div class="Info">
 <caption><h2>Impact of this project</h2></caption>
 
-
+<p>The impact of Zomato's sentimental analysis lies in its ability to transform unstructured review data into actionable insights. This analysis not only helps restaurants improve their service quality and menu offerings but also assists diners in making informed choices based on aggregated feedback. The system's high accuracy in sentiment classification effectively captures the nuances of customer opinions, making it a valuable tool for both businesses and customers.</p>
 
 
 </table>
