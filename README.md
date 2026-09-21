@@ -81,6 +81,7 @@ This project focuses on the company and customers,we have analysed the reviews a
 
 <div class="Pos">
 <caption>Possible Outcomes</caption>
+<p>From eda analysis we get a view upon the visual data of the dataset </p>
 
 <caption>Results</caption
 
