@@ -80,8 +80,10 @@ This project focuses on the company and customers,we have analysed the reviews a
 
 
 <div class="Pos">
-<caption>Possible Outcomes</caption>
-<p>From eda analysis we get a view upon the visual data of the dataset </p>
+<caption><h2>Possible Outcomes</h2></caption>
+<p>From EDA analysis we get a view upon the visual data of the dataset related to public sentimental review over the food and restaurant</p>
+<h2>Model building</h2>
+<p> The final model was trained using linear regression model</p>
 
 <caption>Results</caption
 
