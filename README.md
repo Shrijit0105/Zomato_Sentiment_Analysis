@@ -176,9 +176,7 @@ The analysis can help identify:
 ## 📊 Project Monitor
 
 <div align="center">
-
-<img src="./assets/project-status.svg" width="900">
-
+  <img src="./assets/project-status.svg" width="900">
 </div>
 
 > ⚡ The project monitor is automatically generated and updated through GitHub Actions.
