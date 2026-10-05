@@ -1,91 +1,249 @@
-<h1><bold>AI-ML_project</bold></h1>
+# 🍽️ Zomato Sentiment Analysis
 
-<h2>TOPIC-Zomato sentiment analysis</h2>
+<div align="center">
 
-<h4>Introduction</h4>
-This is an AI/ML-data science project which I have performed under the 2-month internship program by "Labmentix"
+### AI/ML • Natural Language Processing • Exploratory Data Analysis
 
-<h2>Aim:</h2>
-<p font-style="Cascadia">Here the basic aim is to inspect data and get insights about the food industry in India.
-This project focuses on the company and customers,we have analysed the reviews and ratings by the customers who have given their individual verdict on the experience they had into useful data and also performed visual data representation.</p>
-<table border="1" style="border-collapse: collapse;">
- <caption>Restaurant Data</caption>
- <thead>
-   <tr>
-     <th>Name</th>
-     <th>Links</th>
-     <th>Cost</th>
-     <th>Collection</th>
-     <th>Cuisine</th>
-   </tr>
- </thead>
- <tbody>
-   <tr>
-     <td>Name of the Restaurants</td>
-     <td>URL links of the restaurants</td>
-     <td>Estimated cost for per person</td>
-     <td>Tagging of Restaurants according to Zomato categories </td>
-     <td>Cuisines the restaurants serves</td>
-   </tr>
- </tbody>
- <tfoot>
- </tfoot>
-</table>
-
-<table border="1" style="border-collapse: collapse;">
- <caption><h2>Reviewers Data</h2></caption>
- <thead>
-   <tr>
-     <th>Reviewer</th>
-     <th>Review</th>
-     <th>Rating</th>
-     <th>Meta Data</th>
-     <th>Time</th>
-    <th>Pictures</th>
-   </tr>
- </thead>
- <tbody>
-   <tr>
-     <td>Name of the Reviewers</td>
-     <td>Review Text</td>
-     <td>Given Rating</td>
-     <td>Number of reviews and followers</td>
-     <td>Date and Time of review</td>
-    <td>Pictures uploaded by the reviewers with reviews</td>
-   </tr>
- </tbody>
- <tfoot>
- </tfoot>
-</table>
-<div class="TechS">
-<caption><h2>Technologies used</h2></caption>
-<italic><li>Python</li>
- <li>Pandas</li>
- <li>Matplotlib</li>
- <li>Numpy</li>
- <li>Scikit-Learn</li></italic>
-</div> 
-<div class="workflo">
-<h2>Flowchart of the project</h2>
-<description> This is the basic workflow of our project which explains the project using a flowchart </description>
- <br>
-<img src="Screenshot 2026-09-10 233530.png", width="180", length= "150">
+**Transforming customer reviews into meaningful insights about restaurant experiences.**
 
 </div>
 
-<div class="Info">
-<caption><h2>Impact of this project</h2></caption>
+---
 
-<p>The impact of Zomato's sentimental analysis lies in its ability to transform unstructured review data into actionable insights. This analysis not only helps restaurants improve their service quality and menu offerings but also assists diners in making informed choices based on aggregated feedback. The system's high accuracy in sentiment classification effectively captures the nuances of customer opinions, making it a valuable tool for both businesses and customers.</p>
+## 📌 Project Overview
 
+This project was developed as part of a **2-month AI/ML internship program conducted by Labmentix**.
 
-<div class="Pos">
-<caption><h2>Possible Outcomes</h2></caption>
-<p>From EDA analysis we get a view upon the visual data of the dataset related to public sentimental review over the food and restaurant</p>
-<h2>Model building</h2>
-<p> The final model was trained using linear regression model</p>
+The project focuses on analysing restaurant and customer-review data to uncover meaningful patterns in the Indian food and restaurant industry.
 
-<caption>Results</caption
+The workflow combines **data preprocessing, exploratory data analysis, sentiment-oriented review analysis, visualization, and machine-learning techniques** to convert raw customer information into useful insights.
 
+---
 
+## 🎯 Objectives
 
+The primary objectives of this project are to:
+
+- Analyse restaurant-related information and customer reviews.
+- Understand patterns within ratings and customer feedback.
+- Perform exploratory data analysis on restaurant and reviewer information.
+- Convert raw review information into useful analytical insights.
+- Visualize important patterns within the dataset.
+- Develop a machine-learning model for predictive analysis.
+- Understand how customer feedback can support better restaurant decisions.
+
+---
+
+## 📊 Dataset Overview
+
+### 🏪 Restaurant Data
+
+| Feature | Description |
+|---|---|
+| **Restaurant Name** | Name of the restaurant |
+| **URL** | Restaurant's Zomato URL |
+| **Cost** | Estimated cost per person |
+| **Collection** | Zomato restaurant category/tag |
+| **Cuisine** | Cuisine types served by the restaurant |
+
+### 👤 Reviewer Data
+
+| Feature | Description |
+|---|---|
+| **Reviewer** | Name of the reviewer |
+| **Review** | Customer review text |
+| **Rating** | Rating given by the customer |
+| **Meta Data** | Number of reviews and followers |
+| **Time** | Date and time of the review |
+| **Pictures** | Images uploaded with the review |
+
+---
+
+## 🔬 Project Workflow
+
+```text
+Raw Data
+   │
+   ▼
+Data Inspection
+   │
+   ▼
+Data Cleaning & Preprocessing
+   │
+   ▼
+Exploratory Data Analysis
+   │
+   ▼
+Review & Sentiment Analysis
+   │
+   ▼
+Feature Engineering
+   │
+   ▼
+Model Building
+   │
+   ▼
+Model Evaluation
+   │
+   ▼
+Insights & Visualization
+```
+
+---
+
+## 🧠 Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| 🐍 **Python** | Core programming language |
+| 🐼 **Pandas** | Data manipulation and analysis |
+| 🔢 **NumPy** | Numerical computation |
+| 📈 **Matplotlib** | Data visualization |
+| 🤖 **Scikit-learn** | Machine-learning workflow and modelling |
+
+---
+
+## 📈 Exploratory Data Analysis
+
+The EDA phase focuses on understanding the structure and behaviour of the restaurant and customer-review data.
+
+Key areas include:
+
+- Distribution of restaurant ratings
+- Customer review patterns
+- Restaurant cost analysis
+- Cuisine distribution
+- Reviewer behaviour
+- Relationship between ratings and restaurant attributes
+- Identification of useful patterns and trends
+- Visual representation of analytical findings
+
+---
+
+## 🤖 Model Building
+
+The final modelling stage uses a **Linear Regression model** for predictive analysis.
+
+The modelling workflow includes:
+
+```text
+Feature Selection
+       ↓
+Data Preparation
+       ↓
+Train / Test Split
+       ↓
+Linear Regression
+       ↓
+Prediction
+       ↓
+Model Evaluation
+```
+
+Model performance is evaluated using appropriate regression metrics to understand the predictive capability of the trained model.
+
+---
+
+## 💡 Project Impact
+
+The analysis demonstrates how unstructured customer feedback and restaurant information can be transformed into actionable insights.
+
+Potential applications include:
+
+- Understanding customer preferences
+- Identifying patterns in restaurant ratings
+- Supporting restaurant service improvement
+- Analysing cuisine and pricing trends
+- Helping customers make more informed choices
+- Supporting data-driven decisions within the food industry
+
+---
+
+## 📌 Possible Outcomes
+
+The project provides a data-driven view of customer sentiment and restaurant performance.
+
+The analysis can help identify:
+
+- What customers appreciate or dislike.
+- How ratings vary across restaurants.
+- Relationships between restaurant characteristics and customer ratings.
+- Patterns within customer reviews.
+- Potential factors influencing restaurant performance.
+
+---
+
+## 📊 Project Monitor
+
+<div align="center">
+
+<img src="./assets/project-status.svg" width="900">
+
+</div>
+
+> ⚡ The project monitor is automatically generated and updated through GitHub Actions.
+
+---
+
+## 🗂️ Project Structure
+
+```text
+Zomato-Sentiment-Analysis/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│   ├── 01_EDA.ipynb
+│   ├── 02_Preprocessing.ipynb
+│   ├── 03_Model_Building.ipynb
+│   └── 04_Model_Evaluation.ipynb
+│
+├── models/
+│
+├── outputs/
+│   ├── plots/
+│   └── reports/
+│
+├── assets/
+│   └── project-status.svg
+│
+├── .github/
+│   └── workflows/
+│       └── project-ui.yml
+│
+└── README.md
+```
+
+---
+
+## 🚀 Key Learning Outcomes
+
+Through this project, I worked with:
+
+- Real-world data preprocessing
+- Exploratory data analysis
+- Data visualization
+- Review-data analysis
+- Feature engineering
+- Machine-learning model development
+- Model evaluation
+- GitHub-based project management
+- Automated project-status visualization
+
+---
+
+## 👨‍💻 Author
+
+**Shrijit**
+
+BCA Student • AI/ML & Software Development Enthusiast
+
+---
+
+<div align="center">
+
+### 🚀 Turning raw data into useful intelligence.
+
+</div>
