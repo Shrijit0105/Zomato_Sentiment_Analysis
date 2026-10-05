@@ -301,7 +301,7 @@
   <text x="70"
         y="367"
         class="value">
-    33
+    35
   </text>
 
   <text x="70"
@@ -327,7 +327,7 @@
   <text x="320"
         y="367"
         class="value">
-    05 Oct 2026
+    06 Oct 2026
   </text>
 
   <text x="320"
@@ -339,7 +339,7 @@
   <text x="320"
         y="427"
         class="value">
-    18:29 UTC
+    00:02 UTC
   </text>
 
   <!-- COLUMN 3 -->
@@ -353,7 +353,7 @@
   <text x="610"
         y="367"
         class="value">
-    github-actions[bot]
+    Shrijit Sengupta
   </text>
 
   <text x="610"
